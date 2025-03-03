@@ -1,0 +1,32 @@
+#wrapper {
+    background: white;
+    width: 900px;
+    height: auto;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;	
+}
+
+/* Tag style rules for the body tag */
+body {
+    font-family: arial;
+    background: rgb(73, 162, 21);
+    color: navy;
+    font-size: 18px;
+}
+/* Tag style rules for the H1 tag */
+h1 {
+    color: rgb(178, 34, 92);
+    text-align: center;
+    margin: 5px;
+    font-size: 30px;
+}
+
+/* ID style rules to center the image button.  Add the height & width of image */
+#center-image {
+    height:px;
+    width: px;
+    margin-right: auto;
+    margin-left: auto;
+}
